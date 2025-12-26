@@ -35,4 +35,8 @@ Claude correctly interpreted the nested row/column structure and implemented a w
 
 - `src/Main.elm` - The Elm application
 - `deploy.sh` - Build and deploy script
-- `sketch.jpg` - The original hand-drawn sketch (TODO: add)
+- `sketch.jpg` - The original hand-drawn sketch
+
+## The Sketch
+
+![Hand-drawn UI sketch](sketch.jpg)
